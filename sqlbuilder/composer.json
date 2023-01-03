@@ -1,0 +1,9 @@
+{
+    "name": "caloy/sqlbuilder",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    },
+    "require": {}
+}
